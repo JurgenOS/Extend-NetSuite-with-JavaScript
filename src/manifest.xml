@@ -1,0 +1,4 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>Extend NetSuite with JavaScript</projectname>
+  <frameworkversion>1.0</frameworkversion>
+</manifest>
